@@ -66,6 +66,8 @@ endmodule
 
 # OUTPUT:
 <img width="962" alt="329915856-03e5b43e-8fd1-42db-bec9-d8e1cd6342b0" src="https://github.com/magesh0123/VLSI-LAB-EXP-4/assets/162102402/3e155815-2ba4-4170-8cbf-fee041decb74">
+
+
 <img width="962" alt="329915890-3b92b980-ac92-4606-a838-c6d9648e3a01" src="https://github.com/magesh0123/VLSI-LAB-EXP-4/assets/162102402/6c35a4b3-168a-4db1-aea6-a22b4dfba96f">
 
 
@@ -97,6 +99,8 @@ endmodule
 
 # OUTPUT:
 <img width="962" alt="329915958-4a094ca4-dfb9-47e5-8a78-b95b280128cf" src="https://github.com/magesh0123/VLSI-LAB-EXP-4/assets/162102402/264c6631-a2c7-49ec-936f-584b8a50e7c2">
+
+
 <img width="962" alt="329916044-8e770e54-6496-4f60-85cb-b508304bc995" src="https://github.com/magesh0123/VLSI-LAB-EXP-4/assets/162102402/1998b582-503d-4cfc-852f-4a26e291014a">
 
 
@@ -119,6 +123,8 @@ endmodule
 
 # OUTPUT:
 <img width="962" alt="329916097-35aedae2-4db5-4e7d-8adf-6c4fd4293013" src="https://github.com/magesh0123/VLSI-LAB-EXP-4/assets/162102402/ccdd6534-7334-4125-b55c-b3af9414073f">
+
+
 <img width="962" alt="329916128-01a592b8-068c-4dca-be79-f060cf02930f" src="https://github.com/magesh0123/VLSI-LAB-EXP-4/assets/162102402/2a424d8d-a5a4-4098-8fef-f4ea541e1d9c">
 
 
@@ -159,6 +165,8 @@ endmodule
 
 # OUTPUT:
 <img width="962" alt="329916188-b3729306-b93d-4b9b-8f30-31e23103d84e" src="https://github.com/magesh0123/VLSI-LAB-EXP-4/assets/162102402/5b00e0e9-a392-489f-8aa8-638c880a7481">
+
+
 <img width="962" alt="329916212-af913a78-3179-4fbb-b0e6-ee33c1efb1cf" src="https://github.com/magesh0123/VLSI-LAB-EXP-4/assets/162102402/804ef459-b045-4217-a241-e51e4c6ec751">
 
 
@@ -188,6 +196,8 @@ endmodule
 
 # OUTPUT:
 <img width="962" alt="329916278-bdee999f-58b1-4a98-95a8-11411516bdc3" src="https://github.com/magesh0123/VLSI-LAB-EXP-4/assets/162102402/3c50f36c-c3e4-48d7-a1de-507ee1cb7bd8">
+
+
 <img width="962" alt="329916308-26a92567-0cf6-41da-ac9d-d5afc43d865d" src="https://github.com/magesh0123/VLSI-LAB-EXP-4/assets/162102402/92cacbb7-399d-46f5-95c7-a3e3c102f78a">
 
 
@@ -212,6 +222,8 @@ endmodule
 
 # OUTPUT:
 <img width="962" alt="329916401-64d9a351-3be8-4bb5-9b09-40ec166f94be" src="https://github.com/magesh0123/VLSI-LAB-EXP-4/assets/162102402/80eab3b9-7761-4c55-adcd-c09e9ad77439">
+
+
 <img width="962" alt="329916437-6540708a-a079-4138-a05d-a326b34277fa" src="https://github.com/magesh0123/VLSI-LAB-EXP-4/assets/162102402/b3b0ed53-b2da-48d2-b24f-97ae538a2c4a">
 
 
@@ -237,6 +249,8 @@ endmodule
 # OUTPUT:
 
 <img width="617" alt="329916515-530d78ab-9c07-4497-b308-fea125c000c3" src="https://github.com/magesh0123/VLSI-LAB-EXP-4/assets/162102402/5f31eb93-2a76-477d-875b-18dca4ac3074">
+
+
 <img width="962" alt="329916546-9b5a2a72-aaf6-451b-ac4d-d2774f326aaf" src="https://github.com/magesh0123/VLSI-LAB-EXP-4/assets/162102402/1195c751-f289-49c3-9d0f-02ce329dfbe1">
 
 
